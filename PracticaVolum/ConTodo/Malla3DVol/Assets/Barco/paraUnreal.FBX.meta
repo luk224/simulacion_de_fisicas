@@ -1,0 +1,499 @@
+fileFormatVersion: 2
+guid: a5f36c9255320a5408cb74ae46b34486
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Box002
+    100002: Box003
+    100004: boxSuelo
+    100006: Capsule001
+    100008: Capsule002
+    100010: Capsule003
+    100012: Capsule005
+    100014: Capsule006
+    100016: Capsule007
+    100018: Capsule008
+    100020: Capsule009
+    100022: cuerno
+    100024: detalle
+    100026: Escalera001
+    100028: Escalera003
+    100030: Escalera004
+    100032: Escalera005
+    100034: Escalera007
+    100036: HabitDelantero
+    100038: HabitTrasero
+    100040: Mastil004
+    100042: Mastil005
+    100044: Mastil01
+    100046: mesaVo
+    100048: paloVelas
+    100050: //RootNode
+    100052: pared-1
+    100054: pared-2
+    100056: paredesInteriores
+    100058: Plane002
+    100060: Plane003
+    100062: Plane004
+    100064: Plane005
+    100066: Plane007
+    100068: Plane008
+    100070: Plane009
+    100072: Plane010
+    100074: Plane011
+    100076: planta-002
+    100078: planta-1
+    100080: planta0
+    100082: PuestoGuardia
+    100084: suje
+    100086: VelaNormal
+    100088: velaTrasera
+    100090: ventana
+    100092: volante
+    400000: Box002
+    400002: Box003
+    400004: boxSuelo
+    400006: Capsule001
+    400008: Capsule002
+    400010: Capsule003
+    400012: Capsule005
+    400014: Capsule006
+    400016: Capsule007
+    400018: Capsule008
+    400020: Capsule009
+    400022: cuerno
+    400024: detalle
+    400026: Escalera001
+    400028: Escalera003
+    400030: Escalera004
+    400032: Escalera005
+    400034: Escalera007
+    400036: HabitDelantero
+    400038: HabitTrasero
+    400040: Mastil004
+    400042: Mastil005
+    400044: Mastil01
+    400046: mesaVo
+    400048: paloVelas
+    400050: //RootNode
+    400052: pared-1
+    400054: pared-2
+    400056: paredesInteriores
+    400058: Plane002
+    400060: Plane003
+    400062: Plane004
+    400064: Plane005
+    400066: Plane007
+    400068: Plane008
+    400070: Plane009
+    400072: Plane010
+    400074: Plane011
+    400076: planta-002
+    400078: planta-1
+    400080: planta0
+    400082: PuestoGuardia
+    400084: suje
+    400086: VelaNormal
+    400088: velaTrasera
+    400090: ventana
+    400092: volante
+    2100000: paloVelas
+    2100002: planta-1
+    2100004: columnas
+    2100006: Mastil01
+    2100008: No Name
+    2100010: mesaVo
+    2100012: volante
+    2100014: ventana
+    2100016: 'Material #31'
+    2100018: VelaNormal
+    2100020: HabitDelantero
+    2100022: PuestoGuardia
+    2100024: HabitTrasero
+    2100026: Mastil004
+    2100028: pared-2
+    2100030: pared-1
+    2100032: paredesInteriores
+    2100034: velaTrasera
+    2100036: suje
+    2100038: boxSuelo
+    2100040: Escalera007
+    2100042: Escalera005
+    2100044: Escalera004
+    2100046: Escalera003
+    2100048: Escalera001
+    2100050: 'Material #34'
+    2100052: Mastil005
+    2100054: planta0
+    2100056: detalle
+    2100058: planta-002
+    2300000: Box002
+    2300002: Box003
+    2300004: boxSuelo
+    2300006: Capsule001
+    2300008: Capsule002
+    2300010: Capsule003
+    2300012: Capsule005
+    2300014: Capsule006
+    2300016: Capsule007
+    2300018: Capsule008
+    2300020: Capsule009
+    2300022: cuerno
+    2300024: detalle
+    2300026: Escalera001
+    2300028: Escalera003
+    2300030: Escalera004
+    2300032: Escalera005
+    2300034: Escalera007
+    2300036: HabitDelantero
+    2300038: HabitTrasero
+    2300040: Mastil004
+    2300042: Mastil005
+    2300044: Mastil01
+    2300046: mesaVo
+    2300048: paloVelas
+    2300050: pared-1
+    2300052: pared-2
+    2300054: paredesInteriores
+    2300056: Plane002
+    2300058: Plane003
+    2300060: Plane004
+    2300062: Plane005
+    2300064: Plane007
+    2300066: Plane008
+    2300068: Plane009
+    2300070: Plane010
+    2300072: Plane011
+    2300074: planta-002
+    2300076: planta-1
+    2300078: planta0
+    2300080: PuestoGuardia
+    2300082: suje
+    2300084: VelaNormal
+    2300086: velaTrasera
+    2300088: ventana
+    2300090: volante
+    3300000: Box002
+    3300002: Box003
+    3300004: boxSuelo
+    3300006: Capsule001
+    3300008: Capsule002
+    3300010: Capsule003
+    3300012: Capsule005
+    3300014: Capsule006
+    3300016: Capsule007
+    3300018: Capsule008
+    3300020: Capsule009
+    3300022: cuerno
+    3300024: detalle
+    3300026: Escalera001
+    3300028: Escalera003
+    3300030: Escalera004
+    3300032: Escalera005
+    3300034: Escalera007
+    3300036: HabitDelantero
+    3300038: HabitTrasero
+    3300040: Mastil004
+    3300042: Mastil005
+    3300044: Mastil01
+    3300046: mesaVo
+    3300048: paloVelas
+    3300050: pared-1
+    3300052: pared-2
+    3300054: paredesInteriores
+    3300056: Plane002
+    3300058: Plane003
+    3300060: Plane004
+    3300062: Plane005
+    3300064: Plane007
+    3300066: Plane008
+    3300068: Plane009
+    3300070: Plane010
+    3300072: Plane011
+    3300074: planta-002
+    3300076: planta-1
+    3300078: planta0
+    3300080: PuestoGuardia
+    3300082: suje
+    3300084: VelaNormal
+    3300086: velaTrasera
+    3300088: ventana
+    3300090: volante
+    4300000: Capsule003
+    4300002: planta-1
+    4300004: Box002
+    4300006: Mastil01
+    4300008: Box003
+    4300010: mesaVo
+    4300012: volante
+    4300014: ventana
+    4300016: Plane011
+    4300018: Plane010
+    4300020: Plane009
+    4300022: Plane008
+    4300024: Plane007
+    4300026: Plane005
+    4300028: Plane004
+    4300030: Plane003
+    4300032: Plane002
+    4300034: Capsule009
+    4300036: Capsule008
+    4300038: Capsule007
+    4300040: Capsule006
+    4300042: Capsule005
+    4300044: paloVelas
+    4300046: HabitDelantero
+    4300048: Capsule002
+    4300050: Capsule001
+    4300052: PuestoGuardia
+    4300054: HabitTrasero
+    4300056: Mastil004
+    4300058: pared-2
+    4300060: pared-1
+    4300062: paredesInteriores
+    4300064: velaTrasera
+    4300066: suje
+    4300068: boxSuelo
+    4300070: Escalera007
+    4300072: Escalera005
+    4300074: Escalera004
+    4300076: Escalera003
+    4300078: Escalera001
+    4300080: VelaNormal
+    4300082: cuerno
+    4300084: Mastil005
+    4300086: planta0
+    4300088: detalle
+    4300090: planta-002
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Escalera001
+    second: {fileID: 2100000, guid: 0835df13e0a4d7b43be4b9e6eb183bca, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Escalera003
+    second: {fileID: 2100000, guid: 714f2f5b6e3c36a43921fb4e7bb2dbb6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Escalera004
+    second: {fileID: 2100000, guid: 4d2efeb0e4ba1704782eb3af6d949b54, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Escalera005
+    second: {fileID: 2100000, guid: 5fe6361bf9bbdae4e84a39bea4ec32d7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Escalera007
+    second: {fileID: 2100000, guid: 7a77bbd825212244483cde56fa735929, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: HabitDelantero
+    second: {fileID: 2100000, guid: 762d15da6f7d66a4ab556a1674e24b12, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: HabitTrasero
+    second: {fileID: 2100000, guid: d2313efd06c231d49aec85e5c9698063, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mastil004
+    second: {fileID: 2100000, guid: 8f65babd3fa27034394b79ce9e10ef19, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mastil005
+    second: {fileID: 2100000, guid: c6aac5fcb56bab04fb6f1f17b6c42102, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mastil01
+    second: {fileID: 2100000, guid: 3741c24fd1cde514cb23eb0ddee7be06, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #31'
+    second: {fileID: 2100000, guid: 35efe3cc7148e114bbecda3c18699abd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #34'
+    second: {fileID: 2100000, guid: 82b6f5dded684284284da667d11984ce, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: 1d06c437e7ae41e41ae641d699a43c6b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PuestoGuardia
+    second: {fileID: 2100000, guid: fb87b4a7520510e4d9fcb9f67816869a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: VelaNormal
+    second: {fileID: 2100000, guid: a68df35cfbc92f34685a591ff102eb93, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: boxSuelo
+    second: {fileID: 2100000, guid: 317b90c15d1e4ba4e93c36ed8ab2e693, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: columnas
+    second: {fileID: 2100000, guid: e302c68ccde3664489728b6f4ae3ae22, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: detalle
+    second: {fileID: 2100000, guid: 05179a1d13d953a41b7711e5088d6895, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mesaVo
+    second: {fileID: 2100000, guid: 12e2a320cfe9b78408e9ade578fc2e12, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: paloVelas
+    second: {fileID: 2100000, guid: 30a4d2bff90273d4cb4b716e6a35a5a0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pared-1
+    second: {fileID: 2100000, guid: de8833054b8cbf240b4cdda0c770580e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pared-2
+    second: {fileID: 2100000, guid: fcce1e6f3515ac3489e67ccb7fe910bd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: paredesInteriores
+    second: {fileID: 2100000, guid: 660d4b11e2c99e14f8828954ed4242df, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: planta-002
+    second: {fileID: 2100000, guid: ae6fe62fcba10ee4d9c28279bb4e567c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: planta-1
+    second: {fileID: 2100000, guid: 223ac51d0b64dab4ab9c052fd7360fa2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: planta0
+    second: {fileID: 2100000, guid: aa46c6046426a494080239c3b4c5e430, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: suje
+    second: {fileID: 2100000, guid: f07997a57236dbe40b5a305e0d767035, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: velaTrasera
+    second: {fileID: 2100000, guid: 7a0ed6e56b160bc4a8081e9f52abd98b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ventana
+    second: {fileID: 2100000, guid: 4bad69829223fdc45988160a26426fbc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: volante
+    second: {fileID: 2100000, guid: 3947769d34d0df042b8c1dc5f2aec30b, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
